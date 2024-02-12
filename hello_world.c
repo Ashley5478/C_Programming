@@ -1,3 +1,5 @@
+// This program is for submission to Lab A for EEEN10242
+
 #include <stdio.h>
 
 int main()
